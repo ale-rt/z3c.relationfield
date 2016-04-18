@@ -4,7 +4,8 @@ CHANGES
 0.7.1 (unreleased)
 ==================
 
-- Nothing changed yet.
+- Renamed ``Readme.txt`` and ``CHANGES.txt`` to ``README.rst`` and ``CHANGES.rst``.
+  [thet]
 
 
 0.7 (2015-03-13)
